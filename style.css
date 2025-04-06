@@ -1,0 +1,78 @@
+/*Colors and fonts */
+
+body {
+	background: #DDE0BD;
+	color: rgb(65, 65, 65);
+	font-family: "Fira Sans", sans-serif
+	font-size:20px;
+	
+
+
+
+
+}
+
+h1,h2{
+	color: #56CBF9
+}
+
+
+h1,h2,body{
+	font-family: "Fira Sans", sans-serif
+}
+h1{
+	color: #56CBF9
+  font-weight: bolder;
+  font-family: "Fira Sans", sans-serif;
+  font-size: 40px
+
+
+}
+
+
+
+h2{
+	color:#56CBF9;
+	font-weight: bolder;
+	font-family: "Fira Sans", sans-serif
+
+
+}
+
+
+
+a{
+	text-decoration: none;
+	color: #5FBB97;
+	font-weight: bolder;
+	font-family: "Fira Sans", sans-serif;
+
+}
+
+a:hover {
+	color: #27A474;
+}
+
+
+/*Custom designs with classes */
+
+.img-circle{
+	border-radius: 50%
+}
+
+.btngreen{
+	background-color: #5FBB97
+	color:white
+	padding:15px 20px;
+	border-radius: 4px
+
+}
+
+
+
+
+.list-in-line i{
+	font-size: 50px
+
+}
+
